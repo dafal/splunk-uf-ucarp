@@ -1,4 +1,4 @@
-FROM splunk/universalforwarder:6.5.2
+FROM splunk/universalforwarder:6.5.3
 
 MAINTAINER Eric Daras <eric@daras.family>
 
